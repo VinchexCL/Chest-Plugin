@@ -1,0 +1,6 @@
+club\vinchex\chestplugin\Main.class
+club\vinchex\chestplugin\listeners\FreechestListener.class
+club\vinchex\chestplugin\commands\FreechestCommand.class
+club\vinchex\chestplugin\commands\ReloadSubCommand.class
+club\vinchex\chestplugin\commands\ChestPluginCommand.class
+club\vinchex\chestplugin\commands\HelpSubCommand.class

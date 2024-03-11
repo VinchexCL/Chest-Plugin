@@ -1,0 +1,18 @@
+help-message:
+  - ""
+  - "&7&m-----------------------------------------------"
+  - "&6&l ChestPlugin Help"
+  - ""
+  - "&7- &a/freechest &7- Open a chest with 1 line"
+  - "&7- &a/chestplugin reload &7- Reload all files finished in .yml"
+  - "&7&m-----------------------------------------------"
+  - ""
+
+not-permission:
+  - "&cYou don''t have permission!"
+reload-success:
+  - "&aReload has done successfully!"
+error-saving:
+  - "&cAn error occurred saving the information"
+not-console:
+  - "&cThis command is exclusive for players!"

@@ -1,0 +1,10 @@
+main: club.vinchex.chestplugin.Main
+name: ChestPlugin
+version: 1.0
+commands:
+  freechest:
+  reload:
+    permission: chestplugin.reload
+  chestplugin:
+  help:
+    permission: chestplugin.help
